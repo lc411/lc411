@@ -10,7 +10,7 @@ Me chamo Leonardo cerqueira, tenho 24 anos e sou natural do Rio de Janeiro. Atua
  
 #
 
-<img align="right" alt="" height="190px" src="./src/edgerunners.gif">
+<img align="right" alt="" height="190px" <img width="400" height="225" alt="Image" src="https://github.com/user-attachments/assets/3eed8136-a5c2-4c14-85f5-b9b7a9bd95c7" />>
 
 <h3 align="left">Connect with me!</h3>
 
