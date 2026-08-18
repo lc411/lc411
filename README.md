@@ -35,26 +35,21 @@ Me chamo Leonardo cerqueira, tenho 24 anos e sou natural do Rio de Janeiro. Atua
 
 <br/>
 
-<h3 align="left">GitHub Stats</h3>
+## 📊 Estatísticas do GitHub
 
-<p>
-  <a href="https://github.com/lc411?tab=repositories">
-    <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api?username=lc411&show_icons=true&locale=pt-br&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff"
-    />
-  </a>
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top" align="center">
+      <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lc411&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&title_color=00bfbf&icon_color=00bfbf&hide_border=true&cache_seconds=21600&v=20260506" />
+    </td>
+    <td width="10"></td>
+    <td valign="top" align="center">
+      <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lc411&layout=compact&theme=tokyonight&count_private=true&title_color=00bfbf&text_color=00bfbf&hide_border=true&langs_count=20&cache_seconds=21600&v=20260506" />
+    </td>
+  </tr>
+</table>
 
-  <a href="https://github.com/lc411">
-    <img 
-      align="left" 
-      alt="Top Languages" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lc411&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff" 
-    />
+  
   </a>
 </p>
 
