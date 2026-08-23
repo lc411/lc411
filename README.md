@@ -21,7 +21,6 @@ Me chamo Leonardo cerqueira, tenho 24 anos e sou natural do Rio de Janeiro. Atua
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=F1F1F1&color:FFF)](https://github.com/lc411)
 
 
-<h3 align="left">My Stack ~</h3>
 
 <img 
     align="left" 
@@ -49,24 +48,24 @@ Me chamo Leonardo cerqueira, tenho 24 anos e sou natural do Rio de Janeiro. Atua
 />
 
 
-<br/>
+<h3 align="left">GitHub Stats</h3>
 
-## 📊 Estatísticas do GitHub
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=lc411&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
+  />
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td valign="top" align="center">
-      <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lc411&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&title_color=00bfbf&icon_color=00bfbf&hide_border=true&cache_seconds=21600&v=20260506" />
-    </td>
-    <td width="10"></td>
-    <td valign="top" align="center">
-      <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lc411&layout=compact&theme=tokyonight&count_private=true&title_color=00bfbf&text_color=00bfbf&hide_border=true&langs_count=20&cache_seconds=21600&v=20260506" />
-    </td>
-  </tr>
-</table>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=lc411&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+  />
 
-  
-  </a>
 </p>
 
 <picture align="center">
